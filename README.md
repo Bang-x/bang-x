@@ -1,5 +1,7 @@
+# Hi, there
 
-# 👋 Hello, I'm [Bang-x] | Currently a PM × AI Explorer
+
+## 👋 Hello, I'm [Bang-x] | Currently a PM × AI Explorer
 
 ### 🚀 What I'm Doing Now
 - 🔭 **currently working on**: [Extensions101](https://extensions101.com)  A Extensions&Plugin Directory. Plugin applications are as important and useful as other products!
@@ -12,7 +14,8 @@
 
 ---
 
-# 👋 你好，我是[Bang-x] | 目前是PM × AI 探索者  
+
+## 👋 你好，我是[Bang-x] | 目前是PM × AI 探索者  
 
 ### 🚀 现在进行时  
 - 🔭 **正在折腾**：[Extensions101](https://extensions101.com) 插件导航站，插件应用和其他产品一样都很重要且好用！ 
