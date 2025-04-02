@@ -5,7 +5,7 @@
 ### 🚀 What I'm Doing Now
 - 🔭 **Currently working on**: 
 1. [Extensions101](https://extensions101.com)  A Extensions&Plugin Directory. Plugin applications are as important and useful as other products!
-2. [DesignPicker Pro](https://design-picker.yisi.app) A browser extension for designers, product managers, and front-end engineers to view web design element extraction and analysis capabilities. (Currently supports colors, fonts, etc.)
+2. [DesignPicker](https://design-picker.yisi.app) A browser extension for designers, product managers, and front-end engineers to view web design element extraction and analysis capabilities. (Currently supports colors, fonts, etc.)
 - 🎨 **Implemented Case**: The AI project of "design - to - code" completed with Mr. K has been put into use. It has indirectly served a great many people secretly🤫
 - 🌱 **Learning**: Exploring the lifestyle of INFP
 
@@ -21,7 +21,7 @@
 ### 🚀 现在进行时  
 - 🔭 **正在折腾**：
 1. [Extensions101](https://extensions101.com) 插件导航站，插件应用和其他产品一样都很重要且好用！ 
-2. [DesignPicker Pro](https://design-picker.yisi.app) 一个面向设计师、产品经理、前端工程师的浏览器插件，可以查看网页设计元素提取和分析功能。（目前支持颜色、字体等）
+2. [DesignPicker](https://design-picker.yisi.app) 一个面向设计师、产品经理、前端工程师的浏览器插件，可以查看网页设计元素提取和分析功能。（目前支持颜色、字体等）
 - 🎨 **落地案例**：和K先生一起完成的“设计图转代码”的AI项目，已经落地使用啦。间接服务好多好多人🤫
 - 🌱 **学习ing**：探索INFP的生活方式
 
