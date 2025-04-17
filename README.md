@@ -9,6 +9,7 @@
 3. [Blens](https://blens.online) Browse time tracker and AI Insight, best way to **Understand Your Browsing Habits**. 
 - 🎨 **Implemented Case**: The AI project of "design - to - code" completed with Mr. K has been put into use. It has indirectly served a great many people secretly🤫
 - 🌱 **Learning**: Exploring the lifestyle of INFP
+- 📒 **Memo**: [A.M. Weekly & Blog](https://ahey.me) : A weekly posts sharing product insights, AI trends, and a personal blog exploring product experiences, life discoveries, and random thoughts.
 
 ### 📅 2025 Plan List
 - 🚧 **Plugin Project**: There are still a ongoing extension project in the planning stage
@@ -26,6 +27,7 @@
 3. [Blens](https://blens.online) 网页浏览时间追踪和AI洞察分析，获得自己的浏览习惯，浏览网站时，时间都到哪去了
 - 🎨 **落地案例**：和K先生一起完成的“设计图转代码”的AI项目，已经落地使用啦。间接服务好多好多人🤫
 - 🌱 **学习ing**：探索INFP的生活方式
+- 📒 **碎碎念**: [A.M.周刊 & 博客](https://ahey.me) : 一份分享产品洞察、AI动态的周刊，以及记录产品体验、生活探索和随想的个人博客
 
 ### 📅 2025年计划清单  
 - 🚧 **插件项目**：也许还有1个进行中的插件项目
